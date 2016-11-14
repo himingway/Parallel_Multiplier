@@ -1,1 +1,3 @@
-## A Parallel_Multiplier Using SystemVerilog HDL 
+## A Parallel Multiplier Using SystemVerilog HDL
+
+![Parallel_Multiplier](https://raw.githubusercontent.com/himingway/Parallel_Multiplier/master/Pic/parallel_multiplier.png)
