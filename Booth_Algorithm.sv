@@ -4,8 +4,8 @@ module Booth_Algorithm (
 	input logic Sign,
 
 	output logic [15:0] Error_Correction,
-	output logic [33:0]  PP0, PP1, PP2, PP3, PP4, PP5, PP6, PP7, 
-		PP8, PP9, PP10,PP11, PP12, PP13, PP14, PP15,
+	output logic [33:0] PP0, PP1, PP2, PP3, PP4, PP5, PP6, PP7, 
+		PP8, PP9, PP10, PP11, PP12, PP13, PP14, PP15,
 	output logic [31:0] PP16
 );
 
