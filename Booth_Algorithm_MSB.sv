@@ -5,6 +5,6 @@ module Booth_Algorithm_MSB (
 	output logic [31:0] PP
 );
 
-	assign PP = ((Sign == 0) && MSB == 1) ? Multiplicand : 32'b0;
+	assign pp = ((Sign == 0) && (MSB == 1))? Multiplicand : 32'b0;
 
 endmodule
